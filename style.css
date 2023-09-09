@@ -1,0 +1,17 @@
+body {
+	font-family: sans-serif;
+}
+img {
+	width: 10rem;
+	height: 12rem;
+}
+span,
+p {
+	text-transform: capitalize;
+	font-weight: 500;
+}
+div {
+	display: flex;
+	align-items: center;
+	gap: 2rem;
+}
